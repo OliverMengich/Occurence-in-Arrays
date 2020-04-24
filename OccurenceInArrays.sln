@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccurenceInArrays", "OccurenceInArrays\OccurenceInArrays.csproj", "{708A10CB-43A6-47EC-9D3F-C0EE866796F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708A10CB-43A6-47EC-9D3F-C0EE866796F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708A10CB-43A6-47EC-9D3F-C0EE866796F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708A10CB-43A6-47EC-9D3F-C0EE866796F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708A10CB-43A6-47EC-9D3F-C0EE866796F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729B7313-628A-4C8E-9D9E-B83A5473ADD5}
+	EndGlobalSection
+EndGlobal

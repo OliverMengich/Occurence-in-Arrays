@@ -1,0 +1,6 @@
+C:\Users\OliverKipkemei\source\repos\OccurenceInArrays\OccurenceInArrays\bin\Debug\OccurenceInArrays.exe.config
+C:\Users\OliverKipkemei\source\repos\OccurenceInArrays\OccurenceInArrays\bin\Debug\OccurenceInArrays.exe
+C:\Users\OliverKipkemei\source\repos\OccurenceInArrays\OccurenceInArrays\bin\Debug\OccurenceInArrays.pdb
+C:\Users\OliverKipkemei\source\repos\OccurenceInArrays\OccurenceInArrays\obj\Debug\OccurenceInArrays.csprojAssemblyReference.cache
+C:\Users\OliverKipkemei\source\repos\OccurenceInArrays\OccurenceInArrays\obj\Debug\OccurenceInArrays.exe
+C:\Users\OliverKipkemei\source\repos\OccurenceInArrays\OccurenceInArrays\obj\Debug\OccurenceInArrays.pdb
